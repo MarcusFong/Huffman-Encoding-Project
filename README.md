@@ -6,4 +6,4 @@ Creates a Huffman encoding given a text file and some String input. The text fil
 inputted String will be returned in its encoded form. The program will also ask the user to input their own encoding to be 
 decoded.
 
-Run HuffmanTester.java with a .txt file with words as a command line argument to test out the Huffman encoding.
+Run HuffmanTester.java with a .txt file as a command line argument to test out the Huffman encoding.
