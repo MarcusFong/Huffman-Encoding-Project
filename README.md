@@ -1,5 +1,5 @@
 # Huffman-Encoding-Project
-During quarantine last year, I stumbled across a video from Tom Scott (https://youtu.be/JsTptu56GM8)about Huffman encodings.
+During quarantine last year, I stumbled across a video from Tom Scott (https://youtu.be/JsTptu56GM8) about Huffman encodings.
 I found the topic to be very interesting, so I decided to make my own version of it.
 
 Creates a Huffman encoding given a text file and some String input. The text file is used to construct the Huffman Tree and any
